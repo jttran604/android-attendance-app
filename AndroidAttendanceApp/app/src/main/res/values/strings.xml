@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Attendance App</string>
+    <string name="utd_id">UTD ID:</string>
+    <string name="welcome">"Welcome! Please Scan Your Card"</string>
+    <string name="submission">Submit</string>
+    <string name="prompt">Input ID</string>
+</resources>
